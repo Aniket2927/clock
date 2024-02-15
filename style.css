@@ -1,0 +1,32 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+.main-div{
+	
+	height: 100vh;
+	width: 100%;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	/*display: flex;
+	 align-items: center;
+	 justify-content: center;*/
+	 background-image: url("https://img.freepik.com/premium-photo/cinema-with-black-screen-generative-ai_855892-72.jpg");
+	 background-repeat: no-repeat;
+	 background-position: center;
+	 background-size: cover;
+	padding-top: 120px;
+
+}
+.container{
+	padding-bottom: 20px;
+	 color: white;
+	 font-size: 50px;
+	 font-family: arial black;
+	 	background: linear-gradient(90deg,yellow,orange,red);
+	color: transparent;
+	background-clip: text;
+
+}
